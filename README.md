@@ -1,6 +1,6 @@
 #TODO APP LIVE DEMO
 
-[LIVE DEMO](https://todo-sahilmehra.herokuapp.com/)
+[LIVE DEMO](https://todoapp.sahilmehra23.repl.co/)
 
 
 
